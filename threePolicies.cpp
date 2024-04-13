@@ -1,12 +1,10 @@
 /*
 Name: Ibrahim Adam Elhari
-Class: CS 610
-Assignment: Module 5 Programming Assignment: Option 2:
-    Each service station has its own queue and passenger are dispatched
-    to a queue accoding to one of 3 policies:
-        1: Round Robin
-        2: arriving passengers placed in shortest queue
-        3: arriving passengers placed in random queue
+Option 2: Each service station has its own queue and passenger are dispatched
+        to a queue accoding to one of 3 policies:
+            1: Round Robin
+            2: arriving passengers placed in shortest queue
+            3: arriving passengers placed in random queue
 */
 
 #include <iostream>
